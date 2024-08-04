@@ -12,26 +12,26 @@ import {
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
-  name: "Hanzla Tauqeer",
-  title: "Hi all, I'm Hanzla",
+  name: "Chris Yon",
+  title: "Hi all, I'm Chris",
   description:
     "I'm a passionate Full Stack web developer with experience developing Full Stack web applications with Python, Django, React.js, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
   resumeLink: "#",
 };
 
 export const openSource = {
-  githubUserName: "1hanzla100",
+  githubUserName: "dezzzus",
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  email: "mailto:hanzla.tauqeer123@gmail.com",
-  linkedin: "https://www.linkedin.com/in/1hanzla100/",
-  github: "https://github.com/1hanzla100",
-  instagram: "https://www.instagram.com/__hanzla100",
-  // facebook: 'https://www.facebook.com/1hanzla100',
-  // twitter: 'https://twitter.com/1hanzla100',
+  email: "mailto:malaytiger33@gmail.com",
+  linkedin: "https://www.linkedin.com/in/",
+  github: "https://github.com/dezzzus",
+  // instagram: "https://www.instagram.com/",
+  // facebook: 'https://www.facebook.com/',
+  // twitter: 'https://twitter.com/',
 };
 
 export const skillsSection: SkillsSectionType = {
@@ -153,8 +153,8 @@ export const projects: ProjectType[] = [
   {
     name: "developer-portfolio",
     desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-    github: "https://github.com/1hanzla100/developer-portfolio",
-    link: "https://developer-portfolio-1hanzla100.vercel.app/",
+    github: "https://github.com/dezzzus/dezzzus.github.io",
+    link: "dezzzus-github-io.vercel.app",
   },
   {
     name: "Giebo",
@@ -178,13 +178,13 @@ export const feedbacks: FeedbackType[] = [
     name: "Syed Jamal",
     role: "Frontend Developer at Meganos Software",
     feedback:
-      "You were a wonderful addition to our team, alhumdulillah. I'm quite impressed with your abilities and professional practices. You approach problems from a unique perspective and always ask the right question. Finding a good teammate like Hanzla is extremely difficult. He has contributed to the growth of our organization and continues to do so. May Allah bless you with everything you desire.",
+      "You were a wonderful addition to our team, alhumdulillah. I'm quite impressed with your abilities and professional practices. You approach problems from a unique perspective and always ask the right question. Finding a good teammate like Chris is extremely difficult. He has contributed to the growth of our organization and continues to do so. May Allah bless you with everything you desire.",
   },
   {
     name: "Wajahat Malek",
     role: "CEO at Duseca Software",
     feedback:
-      "Hanzla has a deep understanding of web development technologies and is adept at using them to build scalable, robust, and secure web applications. He has worked on various projects, ranging from small-scale to large-scale, and has shown his ability to work collaboratively with others while maintaining a high level of productivity and quality. Hanzla is a pleasure to work with, and I have no doubt that he will be an asset to any team or organization. I highly recommend Hanzla for any Full Stack Django, React.js, or Blockchain development projects, and I wish him all the best in his future endeavors.",
+      "Chris has a deep understanding of web development technologies and is adept at using them to build scalable, robust, and secure web applications. He has worked on various projects, ranging from small-scale to large-scale, and has shown his ability to work collaboratively with others while maintaining a high level of productivity and quality. Chris is a pleasure to work with, and I have no doubt that he will be an asset to any team or organization. I highly recommend Chris for any Full Stack Django, React.js, or Blockchain development projects, and I wish him all the best in his future endeavors.",
   },
   {
     name: "Zaid Zaffar",
@@ -196,18 +196,17 @@ export const feedbacks: FeedbackType[] = [
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: "Hanzla Tauqeer",
+  title: "Chris Yon",
   description: greetings.description,
-  author: "Hanzla Tauqeer",
+  author: "Chris Yon",
   image: "https://avatars.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  url: "dezzzus-github-io.vercel.app",
   keywords: [
-    "Hanzla",
-    "Hanzla Tauqeer",
-    "@1hanzla100",
-    "1hanzla100",
+    "Chris",
+    "Chris Yon",
+    "dezzzus",
     "Portfolio",
-    "Hanzla Portfolio ",
-    "Hanzla Tauqeer Portfolio",
+    "Chris Portfolio ",
+    "Chris Yon Portfolio",
   ],
 };
