@@ -105,9 +105,9 @@ export const SkillBars: SkillBarsType[] = [
 
 export const educationInfo: EducationType[] = [
   {
-    schoolName: "University of Central Punjab",
-    subHeader: "Bachelor of Science in Computer Science",
-    duration: "September 2017 - April 2020",
+    schoolName: "HCMC UNIVERSITY OF TECHNOLOGY AND EDUCATION",
+    subHeader: "Bachelor's Degree in Computer Science, Master's Degree in Computer Science",
+    duration: "2008 - 2014",
     desc: "",
     grade: "Grade A",
     descBullets: [], // Array of Strings
